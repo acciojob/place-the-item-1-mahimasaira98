@@ -1,7 +1,12 @@
 .container{
     display: flex;
     flex-direction: row;
+	height: 300px;
     align-content: space-between;
     flex-wrap: wrap;
+}
+
+.item{
+	width: 100px;
 }
 /* Your CSS Code here. */
